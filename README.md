@@ -1,7 +1,7 @@
-<h1 align="center">Ubaid Ullah Khan </h1>
+<h1 align="center">UBAID ULLAH KHAN </h1>
 
 <p align="center">
-BS Computer Science student @ PAF-IAST, Taxila — moving from front-end web dev into AI/ML.
+BS Computer Science student @ PAF-IAST, Moving from Web Development into AI/ML.
 </p>
 
 <p align="center">
