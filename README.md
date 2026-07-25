@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:FF00E5,100:00F5FF&height=220&section=header&text=Ubaid%20Ullah%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20%40%20PAF-IAST%20%7C%20Web%20Dev%20%E2%86%92%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/main/assets/starfield-banner.svg" width="100%"/>
 
 <a href="https://github.com/ubaidullahkhan5495">
   <img src="https://readme-typing-svg.demolab.com/?lines=Transitioning+from+Web+Dev+into+AI%2FML;Learning+Python+%C2%B7+Math+%C2%B7+Classical+ML+%C2%B7+Deep+Learning;Exploring+NLP%2C+Transformers+%26+GenAI%2FLLMs;BS+CS+Student+at+PAF-IAST%2C+Taxila&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=1000&color=00F5FF&vCenter=true&size=22" alt="Typing SVG" />
@@ -35,10 +35,10 @@
 
 ---
 
-### 💬 Quote of the moment
+### 💻 System Boot
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+<img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/main/assets/terminal-boot.svg" />
 </div>
 
 ---
@@ -52,22 +52,21 @@
 
 ---
 
-### 🧠 Currently Learning — AI/ML Roadmap
+### 🧠 Neural Network in Training
 
 <div align="center">
-
-| Phase | Focus | Status |
-|---|---|:---:|
-| 1 | Python for ML | ✅ |
-| 2 | Math (Linear Algebra, Stats, Calculus) | 🔄 |
-| 3 | Exploratory Data Analysis | ⬜ |
-| 4 | Classical Machine Learning | ⬜ |
-| 5 | Deep Learning | ⬜ |
-| 6 | NLP / Transformers | ⬜ |
-| 7 | GenAI / LLMs / RAG | ⬜ |
-| 8 | MLOps | ⬜ |
-
+<img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/main/assets/neural-banner.svg" width="100%"/>
 </div>
+
+---
+
+### 📈 AI/ML Roadmap Progress
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/main/assets/skill-progress.svg" />
+</div>
+
+<sub>Edit the percentages in <code>assets/skill-progress.svg</code> yourself as you actually progress through each phase.</sub>
 
 ---
 
@@ -92,6 +91,30 @@
 
 ---
 
+### 🏅 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ubaidullahkhan5495&theme=flat&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+### 📊 Metrics Dashboard
+
+<div align="center">
+<img src="https://metrics.lecoq.io/ubaidullahkhan5495?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&languages=1&languages.limit=6&config.timezone=Asia%2FKarachi" />
+</div>
+
+---
+
+### 🌆 3D Contribution Skyline
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+---
+
 ### 📈 Commit Activity
 
 <div align="center">
@@ -99,25 +122,6 @@
 </div>
 
 ---
-### 🌐 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</div>
-
----
-
-### 📋 Profile Summary
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubaidullahkhan5495&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ubaidullahkhan5495&theme=radical" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=ubaidullahkhan5495&theme=radical" />
-</div>
-
 
 ### 📊 GitHub Stats
 
@@ -140,6 +144,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <div align="center">
 
