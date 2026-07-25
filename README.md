@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:FE428E,100:F8D847&height=220&section=header&text=Ubaid%20Ullah%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20%40%20PAF-IAST%20%7C%20Web%20Dev%20%E2%86%92%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:FF00E5,100:00F5FF&height=220&section=header&text=Ubaid%20Ullah%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20%40%20PAF-IAST%20%7C%20Web%20Dev%20%E2%86%92%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ubaidullahkhan5495">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Transitioning+from+Web+Dev+into+AI%2FML;Learning+Python+%C2%B7+Math+%C2%B7+Classical+ML+%C2%B7+Deep+Learning;Exploring+NLP%2C+Transformers+%26+GenAI%2FLLMs;BS+CS+Student+at+PAF-IAST%2C+Taxila&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=1000&color=FE428E&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Transitioning+from+Web+Dev+into+AI%2FML;Learning+Python+%C2%B7+Math+%C2%B7+Classical+ML+%C2%B7+Deep+Learning;Exploring+NLP%2C+Transformers+%26+GenAI%2FLLMs;BS+CS+Student+at+PAF-IAST%2C+Taxila&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=1000&color=00F5FF&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://github.com/ubaidullahkhan5495"><img src="https://img.shields.io/github/followers/ubaidullahkhan5495?label=Follow&style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ubaidullahkhan5495&label=Profile%20Views&color=FE428E&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ubaidullahkhan5495&label=Profile%20Views&color=FF00E5&style=flat" />
 </p>
 
 </div>
@@ -22,10 +22,10 @@
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ubaid-ullah-khan-853a94408" target="_blank">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="ubaidullahkhan5495@gmail.com">
+<a href="mailto:YOUR-EMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ubaidullahkhan5495">
@@ -65,36 +65,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**Web & Backend**
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-**Game Dev & Embedded**
-
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,js,cs,html,css,mysql&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,mongodb,git,vscode,linux,figma,unity,arduino&theme=dark" />
+</div>
 
 ---
 
@@ -109,18 +84,26 @@
 
 ---
 
+### 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ubaidullahkhan5495&theme=neon&no-frame=true&row=1&margin-w=15" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaidullahkhan5495&show_icons=true&theme=radical&hide_border=true" alt="Ubaid's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ubaidullahkhan5495&show_icons=true&theme=synthwave&hide_border=true" alt="Ubaid's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidullahkhan5495&theme=radical&hide_border=true" alt="Ubaid's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidullahkhan5495&theme=synthwave&hide_border=true" alt="Ubaid's streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidullahkhan5495&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidullahkhan5495&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" />
 </p>
 
 ---
@@ -131,10 +114,8 @@
   <img src="https://raw.githubusercontent.com/ubaidullahkhan5495/ubaidullahkhan5495/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<sub>Generated by the GitHub Action in <code>.github/workflows/snake.yml</code></sub>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D847,50:FE428E,100:141321&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:FF00E5,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
