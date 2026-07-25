@@ -1,0 +1,105 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1a1030"/>
+      <stop offset="100%" stop-color="#0a0612"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- connections -->
+  <g stroke="#00F5FF" stroke-width="1.4" fill="none" opacity="0.55">
+    <line x1="90" y1="40"  x2="300" y2="60"/>
+    <line x1="90" y1="100" x2="300" y2="60"/>
+    <line x1="90" y1="100" x2="300" y2="100"/>
+    <line x1="90" y1="160" x2="300" y2="100"/>
+    <line x1="90" y1="160" x2="300" y2="140"/>
+    <line x1="300" y1="60"  x2="510" y2="45"/>
+    <line x1="300" y1="60"  x2="510" y2="100"/>
+    <line x1="300" y1="100" x2="510" y2="45"/>
+    <line x1="300" y1="100" x2="510" y2="100"/>
+    <line x1="300" y1="100" x2="510" y2="155"/>
+    <line x1="300" y1="140" x2="510" y2="100"/>
+    <line x1="300" y1="140" x2="510" y2="155"/>
+    <line x1="510" y1="45"  x2="720" y2="100"/>
+    <line x1="510" y1="100" x2="720" y2="100"/>
+    <line x1="510" y1="155" x2="720" y2="100"/>
+  </g>
+
+  <!-- pulse traveling along a few key connections -->
+  <g fill="#FF00E5" filter="url(#glow)">
+    <circle r="4">
+      <animateMotion dur="2.6s" repeatCount="indefinite"
+        path="M90,100 L300,60 L510,45 L720,100"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="3.1s" begin="0.6s" repeatCount="indefinite"
+        path="M90,160 L300,140 L510,155 L720,100"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.1s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4">
+      <animateMotion dur="2.9s" begin="1.2s" repeatCount="indefinite"
+        path="M90,40 L300,60 L510,100 L720,100"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.9s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- nodes, layer 1 -->
+  <g filter="url(#glow)">
+    <circle cx="90" cy="40"  r="8" fill="#00F5FF">
+      <animate attributeName="r" values="7;9;7" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="100" r="8" fill="#00F5FF">
+      <animate attributeName="r" values="7;9;7" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="160" r="8" fill="#00F5FF">
+      <animate attributeName="r" values="7;9;7" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- nodes, layer 2 -->
+  <g filter="url(#glow)">
+    <circle cx="300" cy="60"  r="9" fill="#FF00E5">
+      <animate attributeName="r" values="8;10;8" dur="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="100" r="9" fill="#FF00E5">
+      <animate attributeName="r" values="8;10;8" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="140" r="9" fill="#FF00E5">
+      <animate attributeName="r" values="8;10;8" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- nodes, layer 3 -->
+  <g filter="url(#glow)">
+    <circle cx="510" cy="45"  r="9" fill="#F8D847">
+      <animate attributeName="r" values="8;10;8" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="510" cy="100" r="9" fill="#F8D847">
+      <animate attributeName="r" values="8;10;8" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="510" cy="155" r="9" fill="#F8D847">
+      <animate attributeName="r" values="8;10;8" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- output node -->
+  <g filter="url(#glow)">
+    <circle cx="720" cy="100" r="12" fill="#00F5FF">
+      <animate attributeName="r" values="11;14;11" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="800" y="106" font-family="Fira Code, monospace" font-size="22" fill="#00F5FF" text-anchor="middle" filter="url(#glow)">AI</text>
+
+  <text x="450" y="190" font-family="Fira Code, monospace" font-size="14" fill="#8888aa" text-anchor="middle">Ubaid Ullah Khan — Neural Network in Training</text>
+</svg>
