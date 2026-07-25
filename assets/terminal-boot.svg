@@ -1,0 +1,45 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="tglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip1"><rect x="0" y="0" width="0" height="20">
+      <animate attributeName="width" values="0;520;520" keyTimes="0;0.28;1" dur="8s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="0" width="0" height="20">
+      <animate attributeName="width" values="0;0;560;560" keyTimes="0;0.28;0.5;1" dur="8s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="clip3"><rect x="0" y="0" width="0" height="20">
+      <animate attributeName="width" values="0;0;0;480;480" keyTimes="0;0.28;0.5;0.72;1" dur="8s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="clip4"><rect x="0" y="0" width="0" height="20">
+      <animate attributeName="width" values="0;0;0;0;500;500;0" keyTimes="0;0.28;0.5;0.72;0.9;0.97;1" dur="8s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="700" height="220" rx="12" fill="#0d0d18" stroke="#00F5FF" stroke-width="1.5"/>
+  <circle cx="26" cy="26" r="6" fill="#FF5F56"/>
+  <circle cx="46" cy="26" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="26" r="6" fill="#27C93F"/>
+  <text x="350" y="30" font-family="Fira Code, monospace" font-size="13" fill="#666688" text-anchor="middle">ubaid@paf-iast: ~/ai-ml-roadmap</text>
+
+  <g font-family="Fira Code, monospace" font-size="16" fill="#39FF88" filter="url(#tglow)">
+    <g clip-path="url(#clip1)">
+      <text x="24" y="70">$ initializing environment...</text>
+    </g>
+    <g clip-path="url(#clip2)">
+      <text x="24" y="100">$ loading skills: python, cpp, js, sql ✓</text>
+    </g>
+    <g clip-path="url(#clip3)">
+      <text x="24" y="130" fill="#00F5FF">$ importing ai_ml_roadmap.py</text>
+    </g>
+    <g clip-path="url(#clip4)">
+      <text x="24" y="160" fill="#FF00E5">&gt;&gt;&gt; status: transitioning web_dev --&gt; ai_ml [OK]</text>
+    </g>
+  </g>
+
+  <rect x="24" y="178" width="10" height="18" fill="#39FF88">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
