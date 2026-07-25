@@ -1,0 +1,62 @@
+<svg width="700" height="330" viewBox="0 0 700 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="pglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF"/>
+      <stop offset="100%" stop-color="#FF00E5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="700" height="330" fill="#0d0d18" rx="14"/>
+  <text x="24" y="34" font-family="Fira Code, monospace" font-size="16" fill="#F8D847">AI/ML Roadmap Progress</text>
+
+  <g font-family="Fira Code, monospace" font-size="13" fill="#cccccc">
+
+    <text x="24" y="66">Python for ML</text>
+    <rect x="220" y="54" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <rect x="220" y="54" height="16" rx="8" fill="url(#barGrad)" filter="url(#pglow)">
+      <animate attributeName="width" values="0;396;396" keyTimes="0;0.5;1" dur="3s" fill="freeze" begin="0.1s"/>
+    </rect>
+    <text x="668" y="66" fill="#00F5FF">90%</text>
+
+    <text x="24" y="106">Math for ML</text>
+    <rect x="220" y="94" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <rect x="220" y="94" height="16" rx="8" fill="url(#barGrad)" filter="url(#pglow)">
+      <animate attributeName="width" values="0;176;176" keyTimes="0;0.5;1" dur="3s" fill="freeze" begin="0.3s"/>
+    </rect>
+    <text x="668" y="106" fill="#00F5FF">40%</text>
+
+    <text x="24" y="146">Exploratory Data Analysis</text>
+    <rect x="220" y="134" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <rect x="220" y="134" height="16" rx="8" fill="url(#barGrad)" filter="url(#pglow)">
+      <animate attributeName="width" values="0;44;44" keyTimes="0;0.5;1" dur="3s" fill="freeze" begin="0.5s"/>
+    </rect>
+    <text x="668" y="146" fill="#00F5FF">10%</text>
+
+    <text x="24" y="186">Classical Machine Learning</text>
+    <rect x="220" y="174" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <rect x="220" y="174" height="16" rx="8" fill="url(#barGrad)" filter="url(#pglow)">
+      <animate attributeName="width" values="0;0;0" keyTimes="0;0.5;1" dur="3s" fill="freeze" begin="0.7s"/>
+    </rect>
+    <text x="668" y="186" fill="#666688">0%</text>
+
+    <text x="24" y="226">Deep Learning</text>
+    <rect x="220" y="214" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <rect x="220" y="214" height="16" rx="8" fill="url(#barGrad)" filter="url(#pglow)">
+      <animate attributeName="width" values="0;0;0" keyTimes="0;0.5;1" dur="3s" fill="freeze" begin="0.9s"/>
+    </rect>
+    <text x="668" y="226" fill="#666688">0%</text>
+
+    <text x="24" y="266">NLP / Transformers</text>
+    <rect x="220" y="254" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <text x="668" y="266" fill="#666688">0%</text>
+
+    <text x="24" y="306">GenAI / LLMs / MLOps</text>
+    <rect x="220" y="294" width="440" height="16" rx="8" fill="#1c1c2e"/>
+    <text x="668" y="306" fill="#666688">0%</text>
+
+  </g>
+</svg>
