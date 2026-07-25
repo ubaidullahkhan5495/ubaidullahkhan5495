@@ -35,6 +35,14 @@
 
 ---
 
+### 💬 Quote of the moment
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</div>
+
+---
+
 ### 🚀 About Me
 
 - 🎓 BS Computer Science student at **PAF-IAST, Taxila**
@@ -84,10 +92,10 @@
 
 ---
 
-### 🏆 Trophy Case
+### 📈 Commit Activity
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ubaidullahkhan5495&theme=neon&no-frame=true&row=1&margin-w=15" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ubaidullahkhan5495&theme=react-dark&hide_border=true&area=true" alt="Commit activity graph" />
 </div>
 
 ---
